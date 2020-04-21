@@ -1,0 +1,3 @@
+* Applicative order (ordem aplicativa)
+
+A ordem aplicativa consiste em avaliar primeiro o operador e os operandos e, em seguida, aplicar o operador aos operandos, ou seja, na ordem aplicativa, os argumentos são avaliados antes que a função seja executada.
